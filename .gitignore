@@ -1,0 +1,6 @@
+### Intellij ###
+.idea/*
+
+# User-specific stuff
+kafka-data-*
+zk-*
